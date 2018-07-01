@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.6.22)  30 JUN 2018 20:14
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.6.22)  1 JUL 2018 16:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"e:/World History/World History/thesis"
-(e:/World History/World History/thesis.tex
+**"e:/World History/World-History/thesis"
+(e:/World History/World-History/thesis.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (d:/texlive/2018/texmf-dist/tex/latex/ctex/ctexart.cls
@@ -2300,11 +2300,11 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 ) [1
 
 
-] [2])
+] [2] [3])
 \tf@toc=\write5
 \openout5 = `thesis.toc'.
 
- [3]
+ [4]
 \openout2 = `body/chapter1.aux'.
 
 
@@ -2402,14 +2402,18 @@ LaTeX Warning: Reference `fig:亚历山大帝国' on page 11 undefined on input 
 (./body/chapter8.tex [38
 
 
-] [39] [40]) [41]
+] [39] [40] [41] [42]) [43]
 \openout2 = `body/chapter9.aux'.
 
- (./body/chapter9.tex)
+ (./body/chapter9.tex
+[44
+
+
+] [45] [46]) [47]
 \openout2 = `body/chapter10.aux'.
 
 
-(./body/chapter10.tex)
+No file body/chapter10.tex.
 No file thesis.bbl.
 \openout2 = `body/acknowledge.aux'.
 
@@ -2427,15 +2431,9 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 179.
 (./body/appendices.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 179.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 179.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 28234F033B279A7B738B537C9D58DB3A.
 
-
-Package rerunfilecheck Warning: File `thesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `thesis.out':
-(rerunfilecheck)             Before: 40B16D12B300F31B1304FBEF2EA0B5AF
-(rerunfilecheck)             After:  330834D8817CF3AF71CFAC7BA2E7AF68.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -2447,12 +2445,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 41823 strings out of 492970
- 889021 string characters out of 6137298
- 980598 words of memory out of 5000000
- 45077 multiletter control sequences out of 15000+600000
+ 41866 strings out of 492970
+ 891700 string characters out of 6137298
+ 984591 words of memory out of 5000000
+ 45122 multiletter control sequences out of 15000+600000
  538889 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  55i,12n,78p,10441b,540s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (45 pages).
+Output written on thesis.pdf (52 pages).
