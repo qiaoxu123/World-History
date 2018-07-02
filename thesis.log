@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.6.22)  1 JUL 2018 16:44
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018/W32TeX) (preloaded format=xelatex 2018.6.22)  2 JUL 2018 08:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2412,8 +2412,10 @@ LaTeX Warning: Reference `fig:亚历山大帝国' on page 11 undefined on input 
 ] [45] [46]) [47]
 \openout2 = `body/chapter10.aux'.
 
+ (./body/chapter10.tex [48
 
-No file body/chapter10.tex.
+
+] [49] [50] [51]) [52] [53]
 No file thesis.bbl.
 \openout2 = `body/acknowledge.aux'.
 
@@ -2431,9 +2433,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 179.
 (./body/appendices.aux))
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 179.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 179.
-Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 28234F033B279A7B738B537C9D58DB3A.
 
+
+Package rerunfilecheck Warning: File `thesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `thesis.out':
+(rerunfilecheck)             Before: 28234F033B279A7B738B537C9D58DB3A
+(rerunfilecheck)             After:  C621D11B93BA1372DB88E169C200B964.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -2445,12 +2453,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 41866 strings out of 492970
- 891700 string characters out of 6137298
+ 41881 strings out of 492970
+ 892615 string characters out of 6137298
  984591 words of memory out of 5000000
- 45122 multiletter control sequences out of 15000+600000
+ 45135 multiletter control sequences out of 15000+600000
  538889 words of font info for 85 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  55i,12n,78p,10441b,540s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (52 pages).
+Output written on thesis.pdf (58 pages).
