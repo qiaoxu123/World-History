@@ -26,8 +26,9 @@
 \fancyhead[C]{\zihao{5}  \kaishu 简明全球史}
 \fancyfoot[C]{~\zihao{5} \thepage~}
 \renewcommand{\headrulewidth}{0.65pt} 
-\CTEXsetup[format={\centering\bfseries\zihao{-2}},name={第, 章}]{section}
-\CTEXsetup[nameformat={\bfseries\zihao{3}}]{subsection}
+\CTEXsetup[format={\centering\bfseries\zihao{-2}},name={第, 部分},number={\chinese{section}}]{section}
+%修改章节的标题样式，包括章节的序号是中文，格式等等
+\CTEXsetup[nameformat={\bfseries\zihao{3}},name={第, 章}]{subsection}
 \CTEXsetup[nameformat={\bfseries\zihao{4}}]{subsubsection}
 %================== 图形支持宏包 =========================
 \usepackage{subfigure}
